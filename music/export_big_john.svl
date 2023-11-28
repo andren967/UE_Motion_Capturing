@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sonic-visualiser>
+<sv>
+  <data>
+    <model id="2" name="" sampleRate="44100" start="36096" end="900353" type="sparse" dimensions="2" resolution="1" notifyOnAdd="true" dataset="1" minimum="0" maximum="92.2852" units="" />
+    <dataset id="1" dimensions="2">
+      <point frame="36096" value="0" referenceFrame="36096" label="" />
+      <point frame="66304" value="87.5927" referenceFrame="66304" label="87.5927BPM" />
+      <point frame="96512" value="87.5927" referenceFrame="96512" label="87.5927BPM" />
+      <point frame="126720" value="87.5927" referenceFrame="126720" label="87.5927BPM" />
+      <point frame="156928" value="87.5927" referenceFrame="156928" label="87.5927BPM" />
+      <point frame="186112" value="90.6661" referenceFrame="186112" label="90.6661BPM" />
+      <point frame="215808" value="89.1029" referenceFrame="215808" label="89.1029BPM" />
+      <point frame="245504" value="89.1029" referenceFrame="245504" label="89.1029BPM" />
+      <point frame="276224" value="86.1328" referenceFrame="276224" label="86.1328BPM" />
+      <point frame="306432" value="87.5927" referenceFrame="306432" label="87.5927BPM" />
+      <point frame="336640" value="87.5927" referenceFrame="336640" label="87.5927BPM" />
+      <point frame="366848" value="87.5927" referenceFrame="366848" label="87.5927BPM" />
+      <point frame="396032" value="90.6661" referenceFrame="396032" label="90.6661BPM" />
+      <point frame="425728" value="89.1029" referenceFrame="425728" label="89.1029BPM" />
+      <point frame="455424" value="89.1029" referenceFrame="455424" label="89.1029BPM" />
+      <point frame="484096" value="92.2852" referenceFrame="484096" label="92.2852BPM" />
+      <point frame="512768" value="92.2852" referenceFrame="512768" label="92.2852BPM" />
+      <point frame="542976" value="87.5927" referenceFrame="542976" label="87.5927BPM" />
+      <point frame="573696" value="86.1328" referenceFrame="573696" label="86.1328BPM" />
+      <point frame="603904" value="87.5927" referenceFrame="603904" label="87.5927BPM" />
+      <point frame="634112" value="87.5927" referenceFrame="634112" label="87.5927BPM" />
+      <point frame="664320" value="87.5927" referenceFrame="664320" label="87.5927BPM" />
+      <point frame="693504" value="90.6661" referenceFrame="693504" label="90.6661BPM" />
+      <point frame="722176" value="92.2852" referenceFrame="722176" label="92.2852BPM" />
+      <point frame="751360" value="90.6661" referenceFrame="751360" label="90.6661BPM" />
+      <point frame="781568" value="87.5927" referenceFrame="781568" label="87.5927BPM" />
+      <point frame="811264" value="89.1029" referenceFrame="811264" label="89.1029BPM" />
+      <point frame="840960" value="89.1029" referenceFrame="840960" label="89.1029BPM" />
+      <point frame="870656" value="89.1029" referenceFrame="870656" label="89.1029BPM" />
+      <point frame="900352" value="89.1029" referenceFrame="900352" label="89.1029BPM" />
+    </dataset>
+  </data>
+  <display>
+    <layer id="3" type="timevalues" name="Time Values &lt;3&gt;" model="2"  plotStyle="3" verticalScale="0" scaleMinimum="0" scaleMaximum="0" drawDivisions="true" fillSegments="true" derivative="false" fillColourMap="Green" colourMap="0"  colourName="Green" colour="#008000" darkBackground="false" />
+  </display>
+</sv>
