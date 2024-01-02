@@ -1,0 +1,36 @@
+steps as interonsetinterval calculate that, calcualte tempo curve of walking, where it increases or deacresses
+time series curve, changes in tempo
+maybe analysis of pop music after 3 seconds to get the mean squared error
+use first 3 seconds to calculate the wie schwer es war sich anzupassen
+danach vllt möglich, einen mean squared error zu berechnen, vllt von beiden die letzen 20(??) Schritte
+
+https://www.google.com/search?client=firefox-b-d&q=python+time+series+analysis
+
+typeset.io
+
+Cadence and Pace, interonset interval of music and steps
+
+interstep intervall between to steps
+->use this for speed up and slow down, then standard deviation for people to compare
+
+static point as starting point
+
+Poster bis 10.01.2024
+
+avarage value of interstep then standard deviation, comparing music and each participant
+precision of 10ms
+
+use templates for poster
+visually appealing, title
+speaking 5-7 minutes
+graphs, tables, screenshot from qtm
+summary, discussion, limitations
+
+background, history, methods
+
+descriptive or generic title
+qr codes to code??
+
+page size in power point to A0
+
+deadline at 08.01.
