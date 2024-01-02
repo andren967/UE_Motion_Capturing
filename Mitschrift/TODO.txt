@@ -1,0 +1,47 @@
+Feedback ansehen:
+
+calculate 	interonset interval, interstep intervall between two steps
+		->use this for speed up and slow down, then standard deviation for people to compare
+		tempo curve of walking (where it increases or decreases)
+		time series curve, changes in tempo
+maybe analysis of pop music after 3 seconds to get the mean squared error
+use first 3 seconds to calculate the wie schwer es war sich anzupassen
+danach vllt möglich, einen mean squared error zu berechnen, vllt von beiden die letzen 20(??) Schritte
+https://www.google.com/search?client=firefox-b-d&q=python+time+series+analysis
+
+typeset.io
+
+avarage value of interstep then standard deviation, comparing music and each participant
+precision of 10ms
+
+Cadence and Pace, interonset interval of music and steps
+
+Diagramme zum Vergleich zwischen Musikstücken und den einzelnen Personen
+
+from review: My personal understanding was that the z-position
+value posed as a ‘marker’ for each step, then the pattern of steps in a time series was compared to
+the beat of the music, and deviations were calculated – hoping I’ve understood that correctly.
+respective reaction time of participants – how
+long does it take for them to ‘recover’ after missing one step, and how are they trying to align again
+(e.g. making more and smaller steps, chancing their pace...)
+Another interesting follow-up question
+is if alignment capability correlates with musical training – sense of rhythm, so to speak. People who
+already play an instrument might perform better in this task than others – or not.
+
+
+Poster bauen
+Poster bis XX10.01.2024!!!!
+use templates for poster
+visually appealing, title
+speaking 5-7 minutes
+graphs, tables, screenshot from qtm
+summary, discussion, limitations
+
+background, history, methods
+
+descriptive or generic title
+qr codes to code??
+
+page size in power point to A0
+
+deadline at 08.01.
