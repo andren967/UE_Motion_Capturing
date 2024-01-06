@@ -1,5 +1,0 @@
-Schritte aller Teilnehmer*innen tracken, nach Musikstücken und davor unterteilen
-alle Musikstücke beat tracken
-"beat track der Schritte"
-Schritte Durchschnitt berechnen
-Vergleich
